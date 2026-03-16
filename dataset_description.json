@@ -1,0 +1,35 @@
+{
+    "Name": "Temperature-controlled intracellular Patch-seq recordings in mouse motor cortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": " We used Patch-seq to combine patch-clamp recording, biocytin staining, and single-cell RNA sequencing of over 1300 neurons in adult mouse motor cortex, providing a comprehensive morpho-electric annotation of almost all transcriptomically defined neural cell types. This dataset contains rectangular stimulation of cells under temperature-controlled conditions (34 \u2103). See Dandiset #8 for the main dataset, recorded under the room temperature.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Scala, Federico",
+        "Kobak, Dmitry",
+        "Bernabucci, Matteo",
+        "Bernaerts, Yves",
+        "Cadwell, Cathryn Rene",
+        "Castro, Jesus Ramon",
+        "Hartmanis, Leonard",
+        "Jiang, Xiaolong",
+        "Laturnus, Sophie",
+        "Miranda, Elanine",
+        "Mulherkar, Shalaka",
+        "Tan, Zheng Huan",
+        "Yao, Zizhen",
+        "Zeng, Hongkui",
+        "Sandberg, Rickard",
+        "Berens, Philipp",
+        "Tolias, Andreas Savas"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
