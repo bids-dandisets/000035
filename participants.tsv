@@ -1,9 +1,9 @@
-participant_id	species	sex
-sub-mouse+INETJ	Mus musculus	M
-sub-mouse+KIYRP	Mus musculus	M
-sub-mouse+MITSU	Mus musculus	F
-sub-mouse+NDKCQ	Mus musculus	F
-sub-mouse+SCEAC	Mus musculus	F
-sub-mouse+UEQOU	Mus musculus	M
-sub-mouse+WPOGH	Mus musculus	M
-sub-mouse+ZUDOB	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-mouse+INETJ	sub-mouse_INETJ	Mus musculus	M
+sub-mouse+KIYRP	sub-mouse_KIYRP	Mus musculus	M
+sub-mouse+MITSU	sub-mouse_MITSU	Mus musculus	F
+sub-mouse+NDKCQ	sub-mouse_NDKCQ	Mus musculus	F
+sub-mouse+SCEAC	sub-mouse_SCEAC	Mus musculus	F
+sub-mouse+UEQOU	sub-mouse_UEQOU	Mus musculus	M
+sub-mouse+WPOGH	sub-mouse_WPOGH	Mus musculus	M
+sub-mouse+ZUDOB	sub-mouse_ZUDOB	Mus musculus	M

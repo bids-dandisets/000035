@@ -1,26 +1,26 @@
-session_id
-ses-20200407+sample+1
-ses-20200407+sample+10
-ses-20200407+sample+11
-ses-20200407+sample+12
-ses-20200407+sample+13
-ses-20200407+sample+14
-ses-20200407+sample+15
-ses-20200407+sample+16
-ses-20200407+sample+18
-ses-20200407+sample+19
-ses-20200407+sample+2
-ses-20200407+sample+20
-ses-20200407+sample+21
-ses-20200407+sample+22
-ses-20200407+sample+23
-ses-20200407+sample+24
-ses-20200407+sample+25
-ses-20200407+sample+26
-ses-20200407+sample+3
-ses-20200407+sample+4
-ses-20200407+sample+5
-ses-20200407+sample+6
-ses-20200407+sample+7
-ses-20200407+sample+8
-ses-20200407+sample+9
+session_id	original_session_id
+ses-20200407+sample+1	ses-20200407_sample_1
+ses-20200407+sample+10	ses-20200407_sample_10
+ses-20200407+sample+11	ses-20200407_sample_11
+ses-20200407+sample+12	ses-20200407_sample_12
+ses-20200407+sample+13	ses-20200407_sample_13
+ses-20200407+sample+14	ses-20200407_sample_14
+ses-20200407+sample+15	ses-20200407_sample_15
+ses-20200407+sample+16	ses-20200407_sample_16
+ses-20200407+sample+18	ses-20200407_sample_18
+ses-20200407+sample+19	ses-20200407_sample_19
+ses-20200407+sample+2	ses-20200407_sample_2
+ses-20200407+sample+20	ses-20200407_sample_20
+ses-20200407+sample+21	ses-20200407_sample_21
+ses-20200407+sample+22	ses-20200407_sample_22
+ses-20200407+sample+23	ses-20200407_sample_23
+ses-20200407+sample+24	ses-20200407_sample_24
+ses-20200407+sample+25	ses-20200407_sample_25
+ses-20200407+sample+26	ses-20200407_sample_26
+ses-20200407+sample+3	ses-20200407_sample_3
+ses-20200407+sample+4	ses-20200407_sample_4
+ses-20200407+sample+5	ses-20200407_sample_5
+ses-20200407+sample+6	ses-20200407_sample_6
+ses-20200407+sample+7	ses-20200407_sample_7
+ses-20200407+sample+8	ses-20200407_sample_8
+ses-20200407+sample+9	ses-20200407_sample_9
